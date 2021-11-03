@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/404Enigma/MRI-Image-Synthices/blob/main/Extra/medizoid.png" height="100px">
-<h1>MediZoid</h1>
+<h1>medizoid</h1>
 <h4>PyTorch Annual Hackathon 2021</h4>
 </div>
 &nbsp;
@@ -8,8 +8,8 @@
 
 <div>
 &nbsp;
-<h2>Tagline</h2>
-<p>This Project leverages Deep Learning to help in Medical Fields for converting MRI Images into different forms like T1-Weighted Images to T2-Weighted Images. </p>
+<h2>Overview</h2>
+<p>This project leverages deep learning for doing MRI-Image Synthesis and generating segmented images help doctors in studying MRI brain scans.</p>
 </div>
 &nbsp;
 &nbsp;
@@ -34,7 +34,7 @@ So we have created two models, one for Image synthesis and the other does Segmen
 &nbsp;
 
 <div>
-<h2>Challenges we Ran Into</h2>
+<h2>Challenges we ran into</h2>
 <p>
 Learning and understanding the terminologies involved with MRIs really took a while like Preprocessing MRI images requires quite a different methodologies than in general. We were learning PyTorch along with the implementation, and although it's quite pythonic in nature still took some time to wrap our minds around.
 </p>
@@ -52,11 +52,11 @@ We will be implementing Conditional Generative Adversarial networks (cGANs) to i
 &nbsp;
 
 <div>
-<h2>Technologies We Used</h2>
+<h2>Technologies we used</h2>
 
 <ul>
 
-<li>torchvision</li>
+<li>Torchvision</li>
 <li>Python</li>
 <li>PyTorch</li>
 <li>Django</li>
