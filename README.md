@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/404Enigma/MRI-Image-Synthices/blob/main/Extra/medizoid.png" height="100px">
-<h1>medizoid</h1>
+<h1>Medizoid</h1>
 <h4>PyTorch Annual Hackathon 2021</h4>
 </div>
 &nbsp;
@@ -43,7 +43,7 @@ Learning and understanding the terminologies involved with MRIs really took a wh
 &nbsp;
 
 <div>
-<h2>What's next for MRI-Images-Synthesis</h2>
+<h2>What's next for Medizoid</h2>
 <p>
 We will be implementing Conditional Generative Adversarial networks (cGANs) to improve the accuracy of our model. Along with that, we will be creating a web application so that it could be of some help to society.
 </p>
