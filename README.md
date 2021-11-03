@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/404Enigma/MRI-Image-Synthices/blob/master/Extra/medizoid.png">
+<img src="https://github.com/404Enigma/MRI-Image-Synthices/blob/main/Extra/medizoid.png" height="100px">
 <h1>MediZoid</h1>
 <h4>PyTorch Annual Hackathon 2021</h4>
 </div>
