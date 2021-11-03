@@ -56,10 +56,9 @@ We will be implementing Conditional Generative Adversarial networks (cGANs) to i
 
 <ul>
 
-<li>Artificial Intelligence</li>
+<li>torchvision</li>
 <li>Python</li>
 <li>PyTorch</li>
-<li>API</li>
 <li>Django</li>
 
 </ul>
